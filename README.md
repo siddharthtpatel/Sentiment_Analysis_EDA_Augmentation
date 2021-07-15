@@ -1,4 +1,8 @@
 # Sentiment_Analysis_EDA_Augmentation
+Sentiment analysis using EDA augmentation and DistilBERT on Yelp reviews.
+
+Dataset - https://course.fast.ai/datasets ("Yelp reviews - Full")
+
 
 The Folder has 2 python notebooks
 1) DistillBert_SentimentAnalysis
